@@ -1,6 +1,9 @@
-# Tutorial-1
-El primer repositorio de prueba
-Esta linea corresponde a una linea escrita desde el editor de mi distribucion
+# Primer repositorio en github 
 
+Este es el primer repositorio de prueba
 
-Esta linea se creo en la version web de github
+## Git
+Esta linea corresponde a una linea escrita desde el editor de mi distribucion.
+
+## Github web
+Esta linea se creo en la version web de github.
