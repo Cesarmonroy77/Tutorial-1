@@ -10,3 +10,4 @@ Esta linea se creo en la version web de github.
 
 ## Git Desktop
 Esta linea se creo con la finalidad de ser administrada por GitHub Desktop
+* Linea para hacer un pull en Github desktop
