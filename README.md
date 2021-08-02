@@ -1,4 +1,4 @@
-# Primer repositorio en github 
+# Primer repositorio en github
 
 Este es el primer repositorio de prueba
 
@@ -14,3 +14,6 @@ Esta linea se creo con la finalidad de ser administrada por GitHub Desktop
 
 ## Visual Studio Code
 Esta linea corresponde al uso del plugin de Visual Studio Code
+
+## Atom
+Esta linea corresponde al uso de Atom
