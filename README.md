@@ -16,4 +16,4 @@ Esta linea se creo con la finalidad de ser administrada por GitHub Desktop
 Esta linea corresponde al uso del plugin de Visual Studio Code
 
 ## Atom
-Esta linea corresponde al uso de Atom
+Esta linea corresponde al uso de Atom y se subio desde ese editor
