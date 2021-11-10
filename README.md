@@ -17,3 +17,5 @@ Esta linea corresponde al uso del plugin de Visual Studio Code
 
 ## Atom
 Esta linea corresponde al uso de Atom y se subio desde ese editor
+
+##Prueba desde terminal
