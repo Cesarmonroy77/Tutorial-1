@@ -1,5 +1,4 @@
 # Primer repositorio en github
-
 Este es el primer repositorio de prueba
 
 ## Git
@@ -18,4 +17,6 @@ Esta linea corresponde al uso del plugin de Visual Studio Code
 ## Atom
 Esta linea corresponde al uso de Atom y se subio desde ese editor
 
-##Prueba desde terminal
+## Prueba desde terminal
+### Nvim
+Esta linea se agrego desde neovim
