@@ -18,5 +18,3 @@ Esta linea corresponde al uso del plugin de Visual Studio Code
 Esta linea corresponde al uso de Atom y se subio desde ese editor
 
 ## Prueba desde terminal
-### Nvim
-Esta linea se agrego desde neovim
